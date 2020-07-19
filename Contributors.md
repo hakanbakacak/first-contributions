@@ -5,6 +5,7 @@
 - [Manne Diaz](https://github.com/diazmanne)
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Nitish Sharma](https://github.com/nitish81299)
+- [Emre Terzi](https://github.com/avocatt)
 - [Mohit Routela](https://github.com/mohitroutela)
 - [Jill Haake Moreau] (https://github.com/jillhkm)
 - [Brendan Carlin](https://github.com/BrendanCarlin)
